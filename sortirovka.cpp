@@ -6,7 +6,7 @@ int main()
     
     setlocale(LC_ALL,"Russian");
     int size;
-    cout << "Vvedite razmer massiva dlya sortirovki:" << endl ;
+    cout << "Vvedite razmer massiva dlya sortirovki" << endl ;
     cin >> size;
 
   
